@@ -1,4 +1,4 @@
 # plugin.sk.and.cz.radia
-Kodi plugin umožňujúci počúvanie Slovenských a Českých rozhlasových staníc.
--Slovenských : 90
--Českých: 120
+<br> Kodi plugin umožňujúci počúvanie Slovenských a Českých rozhlasových staníc. </br>
+<br> -Slovenských : 90 </br>
+<br> -Českých: 120 </br>
