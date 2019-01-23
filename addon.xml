@@ -14,7 +14,7 @@
     <summary lang="cz">Poslouchej rádia podle vlastního výběru</summary>
 	<summary lang="sk">Počúvaj rádia podľa vlastného výberu</summary>
     <description lang="en">Addon allows you to listen Slovak and Czech radio stations.</description>
-    <description lang="cz">Doplnok umožňuje poslouchat Slovenské a České rozhlasové stanice.</description>
+    <description lang="cz">Doplňek umožňuje poslouchat Slovenské a České rozhlasové stanice.</description>
 	<description lang="sk">Doplnok umožňuje počúvať Slovenské a České rozhlasové stanice.</description>
     <platform>all</platform>
   </extension>
