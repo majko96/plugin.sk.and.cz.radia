@@ -31,8 +31,10 @@ class Main:
         self = selfGet
         
         list = [
-		['Slovenské rádia', sys.argv[0] + '?anty', 'radioSlovakia.png', ''],
+		['Slovenské rádia', sys.argv[0] + '?sk', 'radioSlovakia.png', ''],
         ['České rádia', sys.argv[0] + '?cz', 'radioCzechRepublic.png', ''],
+		['Top 10 SK', sys.argv[0] + '?topSK', 'favouriteSK.png', ''],
+		['Top 10 CZ', sys.argv[0] + '?topCZ', 'favouriteCZ.png', ''],
             ]
                 
         for v in list:

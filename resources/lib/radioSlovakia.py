@@ -31,10 +31,10 @@ class Main:
         self = selfGet
     
         list = [
-            		['Rádio 7', 'http://play.twr.sk:8000/128', 'https://i11.servimg.com/u/f11/19/40/01/67/radio710.jpg'],
+            ['Rádio 7', 'http://play.twr.sk:8000/128', 'https://i11.servimg.com/u/f11/19/40/01/67/radio710.jpg'],
 			['Rádio 9', 'http://147.232.191.167:8000/high.mp3', 'https://i.imgur.com/lAZ0Jyv.png'],
-			['Rádio Aetter', 'http://stream.aetter.sk:8000/;stream/1', 'https://i11.servimg.com/u/f11/19/40/01/67/radioa10.jpg'],
-            		['Rádio Aktual', 'http://stream.radioaktual.sk:8000/aktual128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radioa11.jpg'],
+			#['Rádio Aetter', 'http://stream.aetter.sk:8000/;stream/1', 'https://i11.servimg.com/u/f11/19/40/01/67/radioa10.jpg'], -nefunkčné
+            #['Rádio Aktual', 'http://stream.radioaktual.sk:8000/aktual128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radioa11.jpg'], -nefunkčné
 			['Aligator (Rock)', 'http://stream.aligator.sk:8000/aligator_192.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radioa12.jpg'],
 			['Rádio Anténa Rock', 'http://stream.antenarock.sk/antena-hi.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radior16.jpg'],
 			['Rádio Anténa Rock Hard', 'http://stream.radioservices.sk/hardrock.mp3', 'https://www.antenarock.sk/html/assets/antenarock/images/tile-antenarock-hard.jpg'],
@@ -82,7 +82,7 @@ class Main:
 			['Rádio Piešťany', 'http://live.radiopiestany.sk:8000/live.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiop12.jpg'],
 			['Rádio Plus', 'http://stream.sepia.sk:8000/plus128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiop10.jpg'],
 			['Rádio Pohoda', 'http://95.154.254.83:26682/;stream/1', 'https://i46.servimg.com/u/f46/19/40/01/67/radiop10.jpg'],
-			['Rádio Pyramída (Hovorene slovo / Pop)', 'http://icecast.stv.livebox.sk/pyramida_128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiop21.jpg'],
+			['Rádio Pyramída (Hovorené slovo / Pop)', 'http://icecast.stv.livebox.sk/pyramida_128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiop21.jpg'],
 			['Rádio R1 (Rómska hudba)', 'http://allnet.radionet.sk:8000/radioR1.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radior26.jpg'],
 			['Rádio Rapeš', 'http://158.193.51.60:8000/live.mp3', 'https://i.imgur.com/5tQ0zCZ.png'],
 			['Rádio Rebeca', 'http://allnet.radionet.sk:8000/radiorebeca.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radior14.jpg'],
@@ -126,7 +126,7 @@ class Main:
             i = 0
             for key in list:
                 listItem = xbmcgui.ListItem(label=key[0], iconImage=key[2])
-                xbmcplugin.addDirectoryItem(handle=int(sys.argv[1]), url=sys.argv[0] + '?anty_' + str(i), listitem=listItem, isFolder=True)
+                xbmcplugin.addDirectoryItem(handle=int(sys.argv[1]), url=sys.argv[0] + '?sk_' + str(i), listitem=listItem, isFolder=True)
                 i = i + 1
             xbmcplugin.endOfDirectory(int(sys.argv[1]))
         
