@@ -15,6 +15,7 @@ __addon__           = xbmcaddon.Addon()
 __addon_id__        = __addon__.getAddonInfo('id')
 __addonname__       = __addon__.getAddonInfo('name')
 __icon__            = __addon__.getAddonInfo('icon')
+__fanart__			= __addon__.getAddonInfo('fanart')
 __addonpath__       = xbmc.translatePath(__addon__.getAddonInfo('path'))
 __lang__            = __addon__.getLocalizedString
 __path__            = os.path.join(__addonpath__, 'resources', 'lib' )
@@ -39,10 +40,14 @@ class Radio:
             self.opt2 = optMatches2[0]
 
 
-        if self.opt == 'anty':
+        if self.opt == 'sk':
             import radioSlovakia as start
         elif self.opt == 'cz':
             import radioCzechRepublic as start
+        elif self.opt == 'topSK':
+            import favouriteSK as start
+        elif self.opt == 'topCZ':
+            import favouriteCZ as start
 
         else:
             import radioMenu as start
