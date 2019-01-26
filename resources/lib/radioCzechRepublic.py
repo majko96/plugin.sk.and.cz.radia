@@ -80,7 +80,11 @@ class Main:
 			['Hitrádio Magic', 'http://ice.abradio.cz/magic128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/hitrad12.jpg'],
 			['Impuls Rádio', 'http://icecast5.play.cz/impuls128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioi12.jpg'],
 			['Koule.cz Filmové Melodie', 'http://ice.actve.net/web-rb-melodie', 'https://i62.servimg.com/u/f62/19/40/01/67/radiok14.jpg'],
+<<<<<<< HEAD
 		   #['Metal Heart Rádio', 'http://fr.radio-streamhosting.com:8000/metalheartradio128mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/metal_10.jpg'], - nefunguje stream momentálne!
+=======
+		    ['Metal Heart Rádio', 'http://fr.radio-streamhosting.com:8000/metalheartradio128mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/metal_10.jpg'],
+>>>>>>> 5b7ba5910626722bef618dd367619863862125ea
 			['Metalomanie', 'http://ice.abradio.cz/metalomanie128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/metalm10.jpg'],
 			['Oldies rádio', 'http://ice.abradio.cz/oldiesradio128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioo12.jpg'],
 			['Pigy.cz - Disko Trysko (Pop)', 'http://ice.actve.net/web-pg-disko', 'https://i62.servimg.com/u/f62/19/40/01/67/radiop10.jpg'],
@@ -99,9 +103,17 @@ class Main:
 			['RockZone 105,9', 'http://icecast2.play.cz/rockzone128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radior22.jpg'],
 			['Rocková zábava', 'http://ice.abradio.cz/rockzabava128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radior10.jpg'],
 			['Rádio 66', 'http://ice3.abradio.cz/route128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radio610.jpg'],
+<<<<<<< HEAD
 			['Rádio BOHEMIA', 'http://88.99.38.244:8000/stream128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/bohemi10.jpg'],
 			['Rádio Benešov City', 'http://ice6.abradio.cz/benesov128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/beneso10.png'],
 			['Rádio Best of Rock', 'http://mp3stream4.abradio.cz/bestofrock128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiob10.jpg'],
+=======
+			['Rádio Beat', 'http://ice6.abradio.cz/beat128.mp3', 'https://i.imgur.com/rlsJ0bt.png'],
+			['Rádio Benešov City', 'http://ice6.abradio.cz/benesov128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/beneso10.png'],
+			['Rádio Best of Rock', 'http://mp3stream4.abradio.cz/bestofrock128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiob10.jpg'],
+			['Rádio Blaník', 'http://ice.abradio.cz/blanikfm128.mp3?i=86.22812972256186', 'https://i.imgur.com/n3EaZtv.jpg'],
+			['Rádio BOHEMIA', 'http://88.99.38.244:8000/stream128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/bohemi10.jpg'],
+>>>>>>> 5b7ba5910626722bef618dd367619863862125ea
 			['Rádio Chillout', 'http://mp3stream4.abradio.cz/chillout128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioc12.jpg'],
 			['Rádio Contact Liberec', 'http://icecast8.play.cz/contact128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioc21.jpg'],
 			['Rádio Country', 'http://mp3stream4.abradio.cz/country128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioc14.jpg'],
