@@ -42,7 +42,7 @@ class Main:
 			['Rádio Beta', 'http://109.71.67.102:8000/beta_live_high.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiob11.jpg'],
 			['Rádio Beta - České a Slovenské hity', 'http://109.71.67.102:8000/beta_cspop.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/betacz10.jpg'],
 			['Rádio Beta - Hity 80s a 90s', 'http://109.71.67.102:8000/beta_80a90.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/beta8010.jpg'],
-			['Rádio Beta - Hráme Jubilantom', 'http://stream.radioaktual.sk:8000/aktual128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/betaju10.jpg'],
+			['Rádio Beta - Hráme Jubilantom', 'http://109.71.67.102:8000/beta_jubilanti.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/betaju10.jpg'],
 			['Rádio Blesk', 'http://stream.radioblesk.net:7777/;stream/1', 'https://i11.servimg.com/u/f11/19/40/01/67/radiob12.jpg'],
 			['Rádio Bunker', 'http://62.197.207.17:8000/live', 'https://i11.servimg.com/u/f11/19/40/01/67/radiob13.jpg'],
 			['Demomusic Rádio', 'http://server1.internetoveradio.sk:8977/;stream/1', 'https://i11.servimg.com/u/f11/19/40/01/67/radiod10.jpg'],
