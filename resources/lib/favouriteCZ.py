@@ -35,21 +35,18 @@ class Main:
 			['Český rozhlas 1 - Rádiožurnál', 'http://icecast7.play.cz:443/cro1-128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radior12.jpg'],
 			['Evropa 2', 'http://icecast3.play.cz/evropa2-128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioe11.jpg'],
 			['Frekvence 1', 'http://icecast4.play.cz/frekvence1-128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiof16.jpg'],
-<<<<<<< HEAD
 			['Český rozhlas 2 - Praha', 'http://icecast7.play.cz:443/cro2-128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioc22.jpg'],
 			['ČRo Plus', 'http://icecast1.play.cz:443/croplus128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiop18.jpg'],
 			['Český rozhlas 3 - Vltava', 'http://icecast5.play.cz:8000/cro3-128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioc25.jpg'],
 			['ČRo D-dur', 'http://icecast5.play.cz:8000/croddur-128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiod18.jpg'],
 			['ČRo Wave', 'http://icecast5.play.cz:8000/crowave-128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiow10.jpg'],
 			['ČRo Rádio Junior', 'http://icecast5.play.cz:8000/crojuniormaxi128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioj15.jpg'],
-=======
 			['Rádio Blaník', 'http://ice.abradio.cz/blanikfm128.mp3?i=86.22812972256186', 'https://i.imgur.com/n3EaZtv.jpg'],
 			['Hitrádio FM', 'http://ice.abradio.cz/hitradiofm128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/hitrad15.jpg'],
 			['Rádio Kiss', 'http://icecast4.play.cz:8000/kiss128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiok13.jpg'],
 			['Český rozhlas 2 - Praha', 'http://icecast7.play.cz:443/cro2-128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioc22.jpg'],
 			['Rádio Beat', 'http://ice6.abradio.cz/beat128.mp3', 'https://i.imgur.com/rlsJ0bt.png'],
 			['Rádio Country', 'http://mp3stream4.abradio.cz/country128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioc14.jpg'],
->>>>>>> 5b7ba5910626722bef618dd367619863862125ea
             ]
 
         if self.opt2 == '':
