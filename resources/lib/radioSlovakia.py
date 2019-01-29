@@ -51,7 +51,7 @@ class Main:
 			['Detské rádio - Rozprávky', 'http://stream.detskeradio.sk/rozpravky.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radioz12.jpg'],
 			['Rádio Devín', 'http://live.slovakradio.sk:8000/Devin_256.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiod11.jpg'],
 			['Dobré Rádio', 'http://stream.dobreradio.sk:8813/dobreradio.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/dobrer10.jpg'],
-			['Europa2 SK', 'http://stream.radioservices.sk:50008/europa2.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radioe11.jpg'],
+			['Europa2', 'http://stream.radioservices.sk:50008/europa2.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radioe11.jpg'],
 			['Rádio Expres', 'http://85.248.7.162:8000/96.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radioe15.jpg'],
 			['FF Rádio', 'http://audio.lumen.sk:8000/ff128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiof10.jpg'],
 			['Rádio_FM', 'http://icecast.stv.livebox.sk/fm_128.mp3', 'https://www.satelitnatv.sk/wp-content/uploads/2011/12/radio_fm.jpg'],
